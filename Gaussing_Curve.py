@@ -44,16 +44,3 @@ ax.set_yticklabels([])
 ax.set_title('Normal Gaussian Curve')
 plt.savefig('normal_curve.png', dpi=72, bbox_inches="tight")
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
